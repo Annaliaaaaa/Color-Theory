@@ -221,10 +221,73 @@
     width: 190px;
 }
 
+#navy {
+    background-color: #16007a;
+    min-height: 60px;
+    width: 190px;
+}
 
 
-#har {
-    background-color: #7F3364;
+
+#indigo-ink {
+    background-color: #35007a;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+#ink {
+    background-color: #45007a;
+    min-height: 60px;
+    width: 190px;
+}
+
+#in {
+    background-color: #52007a;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#idi {
+    background-color: #5e007a;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+
+#lok {
+    background-color: #68007a;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#her {
+    background-color: #7a007a;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+#ff {
+    background-color: #7a0066;
+    min-height: 60px;
+    width: 190px;
+}
+
+#lpum {
+    background-color: #7a0058;
+    min-height: 60px;
+    width: 190px;
+}
+
+#ras {
+    background-color: #7a0045;
     min-height: 60px;
     width: 190px;
 }
