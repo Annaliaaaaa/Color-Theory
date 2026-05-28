@@ -1,17 +1,17 @@
 #red {
-    background-color: #B22222;
+    background-color: #ff0000;
     min-height: 60px;
     width: 190px;
 }
 
 #blue {
-    background-color: #4682B4;
+    background-color: #008cff;
     min-height: 60px;
     width: 190px;
 }
 
 #yellow {
-    background-color: #FAFAD2;
+    background-color: #ffff00;
     min-height: 60px;
     width: 190px;
 }
@@ -96,6 +96,135 @@
 
 #e {
     background-color: #defff7;
+    min-height: 60px;
+    width: 190px;
+}
+
+#warm-red {
+    background-color: #D51e4f;
+    min-height: 60px;
+    width: 190px;
+}
+
+#warm-orange {
+    background-color: #e35738;
+    min-height: 60px;
+    width: 190px;
+}
+
+#brown {
+    background-color: #5c150a;
+    min-height: 60px;
+    width: 190px;
+}
+
+#idk {
+    background-color: #b25716;
+    min-height: 60px;
+    width: 190px;
+}
+
+#burgandy {
+    background-color: #b2180b;
+    min-height: 60px;
+    width: 190px;
+}
+
+#bb {
+    background-color: #C11C32;
+    min-height: 60px;
+    width: 190px;
+}
+
+#dark-pink {
+    background-color: #AB1CC1;
+    min-height: 60px;
+    width: 190px;
+}
+
+#berry {
+    background-color: #670067;
+    min-height: 60px;
+    width: 190px;
+}
+
+#g {
+    background-color: #84C11C;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#bl {
+    background-color: #1C84C1;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#gh {
+    background-color: #87326c;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+#p {
+    background-color: #6C284D;
+    min-height: 60px;
+    width: 190px;
+}
+
+#aj {
+    background-color: #6C2856;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#ha {
+    background-color: #833287;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+
+#mul {
+    background-color: #C54B8C;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#ber {
+    background-color: #A63F78;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+#pur {
+    background-color: #943F88;
+    min-height: 60px;
+    width: 190px;
+}
+
+#vi {
+    background-color: #A64B92;
+    min-height: 60px;
+    width: 190px;
+}
+
+
+
+#har {
+    background-color: #7F3364;
     min-height: 60px;
     width: 190px;
 }
